@@ -1,0 +1,251 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    background-image: url(../imagen/psicodelico.jpg);
+}
+
+body{
+  
+  background-color: #EB19E2 ;
+   margin: 0 auto 0 auto;
+   width:880px;
+   width: 50%;
+   
+}
+
+#nombre {
+    padding-top: 2%;
+    padding-left: 3%;
+    width:80%;
+    margin: 3%;
+    margin-top: 3%;
+}
+
+#genero >img{
+position: relative;
+align-content: center;
+margin-left: 3%;
+}
+
+#apellidos {
+    padding-left: 3%;
+    width:80%;
+    margin: 3%;
+    margin-top: 1%;
+}
+
+#correo {
+    padding-left: 3%;
+    width:80%;
+    margin: 3%;
+    margin-top: 1%;
+}
+
+#sexo {
+    padding-left: 3%;
+    width:80%;
+    margin: 3%;
+    margin-top: 1%;
+}
+
+#edad {
+    padding-left: 3%;
+    width:80%;
+    margin: 3%;
+    margin-top: 1%;
+}
+
+#genero {
+    padding-top: 2%;
+    padding-left: 3%;
+    width:80%;
+    margin: 3%;
+    margin-top: 3%;
+}
+
+
+#tiempo {
+    padding-top: 2%;
+    padding-left: 3%;
+    width:80%;
+    margin: 3%;
+    margin-top: 3%;
+}
+
+#animo {
+    padding-top: 2%;
+    padding-left: 3%;
+    width:80%;
+    margin: 3%;
+    margin-top: 3%;
+}
+#categorias{
+    padding-top: 2%;
+    padding-left: 3%;
+    width:80%;
+    margin: 3%;
+    margin-top: 3%;
+}
+
+#decada{
+    padding-top: 2%;
+    padding-left: 3%;
+    width:80%;
+    margin: 3%;
+    margin-top: 3%;
+}
+
+#cantidad{
+    padding-top: 2%;
+    padding-left: 3%;
+    width:80%;
+    margin: 3%;
+    margin-top: 3%;
+    
+}
+
+#nivel{
+    padding-top: 2%;
+    padding-left: 3%;
+    width:80%;
+    margin: 3%;
+    margin-top: 3%;
+}
+
+#concierto{
+    padding-top: 2%;
+    padding-left: 3%;
+    width:80%;
+    margin: 3%;
+    margin-top: 3%;
+}
+
+#puntuacion{
+    padding-top: 2%;
+    padding-left: 3%;
+    width:80%;
+    margin: 3%;
+    margin-top: 3%;
+}
+
+#opinion{
+    padding-top: 2%;
+    padding-left: 3%;
+    width:80%;
+    margin: 3%;
+    margin-top: 3%;
+}
+
+#nombre >p{
+background-color: #dda15e;
+text-align: center;
+border: #97280A 5px solid;
+font-size: 18px;
+font-family:'Times New Roman', Times, serif;
+}
+
+#apellidos >p {
+    background-color: #dda15e;
+    text-align: center;
+    border: #97280A 5px solid;
+    font-size: 18px;
+    font-family:'Times New Roman', Times, serif;
+}
+
+#correo >p{
+    background-color: #dda15e;
+    text-align: center;
+    border: #97280A 5px solid;
+    font-size: 18px;
+    font-family:'Times New Roman', Times, serif;
+}
+
+#sexo >p{
+    background-color: #dda15e;
+text-align: center;
+border: #97280A 5px solid;
+font-size: 18px;
+font-family:'Times New Roman', Times, serif;
+}
+
+#edad >p{
+    background-color: #dda15e;
+text-align: center;
+border: #97280A 5px solid;
+font-size: 18px;
+font-family:'Times New Roman', Times, serif;
+}
+
+#tiempo >p{
+    background-color: #dda15e;
+    text-align: center;
+    border: #FA6F2E  5px solid;
+    font-size: 18px;
+    font-family:'Times New Roman', Times, serif;
+}
+
+#animo >p{
+    background-color: #dda15e;
+    text-align: center;
+    border: #FA6F2E 5px solid;
+    font-size: 18px;
+    font-family:'Times New Roman', Times, serif;
+}
+
+#categorias>p{
+    background-color: #dda15e;
+    text-align: center;
+    border: #FA6F2E 5px solid;
+    font-size: 18px;
+    font-family:'Times New Roman', Times, serif;
+}
+
+#nivel >p{
+    background-color: #dda15e;
+    text-align: center;
+    border: #FA6F2E 5px solid;
+    font-size: 18px;
+    font-family:'Times New Roman', Times, serif;
+}
+
+#concierto >p{
+    background-color: #dda15e;
+    text-align: center;
+    border: #FA6F2E 5px solid;
+    font-size: 18px;
+    font-family:'Times New Roman', Times, serif;
+}
+
+#opinion >p{
+    background-color: #dda15e;
+    text-align: center;
+    border: #82F956  5px double;
+    font-size: 18px;
+    font-family:'Times New Roman', Times, serif;
+}
+
+#decada >img {
+    display: block;
+    margin: auto;
+    justify-content: center;
+}
+
+#puntuacion >img {
+    margin-left: 10%;
+}
+
+#cantidad >img {
+    margin: 1%;
+    margin-left: 5%;
+}
+
+#scroll{
+    border:1px solid;
+    height:100px;
+    width:300px;
+    overflow-y:scroll;
+    overflow-x:hidden;
+}

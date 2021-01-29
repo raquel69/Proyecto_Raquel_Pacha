@@ -1,0 +1,75 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+   background-image: url(../imagen/musica.jpg);
+   margin: 0 auto 0 auto;
+   width:880px;
+   background-color: rgb(255, 255, 255);
+   width: 50%;
+}
+
+header {
+    background-color: #bc6c25;
+    font-family: 'Poppins', sans-serif, 'arial';
+   font-weight: 300px;
+    font-size: 32px;
+    margin: auto;
+text-align: center;
+margin-top: 10%;
+}
+
+header img {
+    width: 10%;
+    height: 10%;
+    float: right;
+}
+
+.uno {
+background-color: #fefae0;
+text-align: left;
+}
+ .dos {
+    background-color: #fefae0;
+    text-align: left;
+}
+p {
+    color:black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: flex;
+    margin-top: 2%;
+    margin-left: 5%;
+}
+
+select >option {
+    margin-left: 2%;
+}
+
+#scroll{
+    border:1px solid;
+    height:100px;
+    width:300px;
+    overflow-y:scroll;
+    overflow-x:hidden;
+}
+.terminos {
+  background-color: #606c38;
+}
+.mensaje {
+    margin-bottom: 2%;
+}
+button {
+    color: rgb(247, 247, 248);
+    border-color: rgb(6, 2, 71);
+    background-color: #6076be;
+    border-radius: 60%;
+    font-size: 15px;
+    height: 40%;
+    width: 10%;
+}
+footer {
+    background-color: #dda15e;
+    
+}
